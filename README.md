@@ -53,6 +53,7 @@ Microsoft Power BI – For interactive dashboards
 CSV/Excel Dataset – As the data source
 
 # KPIs Tracked
+[KPIs](https://github.com/Anne-Benita/Data-Anlalysis-Dashboard-with-Excell-and-PowerBI/blob/main/Blinkit%20Analysis.pptx)
 KPI Name	Description
 Total Sales	Sum of all sales across outlets (in millions)
 Average Sales per Item	Total Sales ÷ Total Items
