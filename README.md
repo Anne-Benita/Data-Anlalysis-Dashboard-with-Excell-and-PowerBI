@@ -98,7 +98,7 @@ Designed filters for outlet type, item type, and location.
 
 # Dashboard Snapshots
 📊 Power BI Dashboard
-
+![PowerBI dashbboard](https://github.com/Anne-Benita/Data-Anlalysis-Dashboard-with-Excell-and-PowerBI/blob/main/blinit%20powerbi.png)
 📊 Excel Dashboard
   ![Excell dashboard](https://github.com/Anne-Benita/Data-Anlalysis-Dashboard-with-Excell-and-PowerBI/blob/main/blinkit.png)
 # Key Insights
