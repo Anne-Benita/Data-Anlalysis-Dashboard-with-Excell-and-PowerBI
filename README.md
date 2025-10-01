@@ -28,6 +28,7 @@ Outlet_Establishment_Year, Total_Sales, Rating, Item_Visibility
 All SQL queries used for KPI calculations and insights are compiled in a Word/RTF document.
 
  View SQL Queries: Blinkit SQL Queries - Word Document
+ [Blinkit Query](https://github.com/Anne-Benita/Data-Anlalysis-Dashboard-with-Excell-and-PowerBI/blob/main/blinkit%20query.docx)
 
 # Project Goals
 
