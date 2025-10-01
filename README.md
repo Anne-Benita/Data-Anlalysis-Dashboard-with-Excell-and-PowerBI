@@ -10,7 +10,7 @@ With SQL-powered KPIs and interactive dashboards, this project empowers decision
 ➡️ Power BI Report Link: Click to View Dashboard
 
 # Download Dataset: Blinkit Dataset
-[Blinkit Dataset](https://github.com/Anne-Benita/Data-analysis-for-Pizza-sales-Report-using-PowerBI/blob/main/pizza_sales_excel_file.xlsxINSERT_DATASET_LINK_HERE)
+[Blinkit Dataset](https://github.com/Anne-Benita/Data-Anlalysis-Dashboard-with-Excell-and-PowerBI/blob/main/BlinkIT%20Grocery%20Data.xlsxINSERT_DATASET_LINK_HERE)
 
 The data used in this project comes from a Blinkit sales dataset in CSV/Excel format.
  
