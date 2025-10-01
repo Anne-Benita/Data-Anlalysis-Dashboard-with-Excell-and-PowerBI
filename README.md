@@ -100,7 +100,7 @@ Designed filters for outlet type, item type, and location.
 📊 Power BI Dashboard
 
 📊 Excel Dashboard
-[Blinkit analysis with excell](https://github.com/Anne-Benita/Data-Anlalysis-Dashboard-with-Excell-and-PowerBI/blob/main/BlinkIT%20Grocery%20analysis%20with%20excell.xlsx)
+  (https://github.com/Anne-Benita/Data-Anlalysis-Dashboard-with-Excell-and-PowerBI/blob/main/blinit%20powerbi.png)
 # Key Insights
 📌 Sales Performance
 
